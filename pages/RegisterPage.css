@@ -1,0 +1,29 @@
+/* Option 2: Import via CSS */
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+
+
+            .register-block{
+                float:left;
+                width:100%;
+                padding : 10px 0;
+                background-color: rgba(255, 0, 0, 0.836);
+                
+            }
+
+            .container{background:white; border-radius: 10px; width: 80%; height: 80%;}
+            .register-sec{padding: 50px 30px; position:relative;}
+            .register-sec h2{margin-bottom:30px; font-weight:300; font-size:30px; color: #3c4043; text-align: center;}
+            .register-sec h2:after{content:" "; width:100px; height:5px; background:#6ec6ff; display:block; margin-top:20px; border-radius:3px; margin-left:auto;margin-right:auto}
+            .btn-login{background:rgba(255, 0, 0, 0.836); color:#fff; font-weight:600;}
+            .register-sec p{text-align: center;}
+            .btn{
+                font-size: 15px;
+                margin: 15px;
+                border-radius: 5px;
+                width: 200px;
+                
+            }
+            span{
+                color: rgba(255, 255, 255, 0.769);
+                margin: 15px;
+            }
